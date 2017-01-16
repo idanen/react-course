@@ -1,5 +1,4 @@
 import React from 'react';
-import classNames from 'classnames';
 import { Link } from 'react-router';
 
 const Recipe = ({ recipe, toggleFavorite }) => (
